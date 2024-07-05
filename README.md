@@ -1,1 +1,1 @@
-# Excel-Sales_dashboard
+This dashboard contains interactive and visualization dashboard and it provides insights into various metrics such as Sales by sub category,Monthly profit, Monthly sales,Yearly profit and Sales on states.
